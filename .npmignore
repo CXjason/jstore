@@ -1,0 +1,11 @@
+test/
+scripts
+lib
+bower.json
+MIT-LICENSE
+node_modules/
+.gitignore
+.cache
+.travis.yml
+.editorconfig
+.DS_Store
